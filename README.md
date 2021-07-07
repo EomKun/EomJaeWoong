@@ -7,7 +7,7 @@
 Hi! I'm interested in Backend, server programming!
 
 ### Experienced 🌱
-- SSAFY 교육과정 (2020.07.06 ~ ) - <small>Samsung</small>
+- SSAFY 교육과정 (2020.07.06 ~ 2021.07.02) - <small>Samsung</small>
 - 시큐어 코딩 기반 블록체인 개발 과정(2019.11.29 ~ 2020.07.06) - <small>멀티캠퍼스</small>
 - 청년 AI.Big Data 아카데미 5기(2019.01.07 ~ 2019.04.05) - <small>Posco & Postech</small>
 
